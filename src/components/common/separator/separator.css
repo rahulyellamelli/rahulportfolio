@@ -1,0 +1,21 @@
+.separator {
+  background-image: linear-gradient(
+    to right top,
+    #d16bbb,
+    #c658c1,
+    #b646ca,
+    #9f38d5,
+    #7e2ee1,
+    #9623d7,
+    #a915cd,
+    #b900c2,
+    #e3009c,
+    #fa0070,
+    #ff0044,
+    #fb020d
+  );
+  height: 6px;
+  width: 40%;
+  border-radius: 3px;
+  margin: 16px 0px;
+}
